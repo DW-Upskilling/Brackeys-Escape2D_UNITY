@@ -368,7 +368,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   spawnRate: 1
-  wall: {fileID: 1751025020613844487, guid: dd14bcb2de785bd45ace7c741d8c21cd, type: 3}
+  wall: {fileID: 1447724263546777571, guid: dd14bcb2de785bd45ace7c741d8c21cd, type: 3}
 --- !u!4 &1123262231
 Transform:
   m_ObjectHideFlags: 0
